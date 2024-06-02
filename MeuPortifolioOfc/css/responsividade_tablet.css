@@ -1,0 +1,223 @@
+@media screen and (max-width: 768px) {
+
+    #conteiner {
+        width: 100%;
+        height: 100%;
+    }
+
+    .conteiner__top {
+        width: 100%;
+        height: 52px;
+        padding: 0px;
+        justify-content: center;
+        gap: 150px;
+
+    }
+
+    .link__top {
+        display: none;
+    }
+
+    #link__top__email {
+        color: #000;
+        display: flex;
+        column-gap: 2rem;
+        background-color: #f5f5f5;
+        text-decoration: none;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 10px;
+        font-weight: bold;
+        font-family: 'Raleway', sans-serif;
+    }
+
+    /*atençao essa parte*/
+    .conteiner__apresentacao {
+        width: 704px;
+        height: 210px;
+        align-items: center;
+        padding: 0px 32px 0px 32px;
+        margin-top: 50px;
+    }
+
+    .fotoPerfil {
+        width: 146px;
+        height: 146px;
+
+    }
+
+    .apresentacao__pessoal {
+        width: 524px;
+        font-size: 22px;
+        padding-bottom: 8px;
+    }
+
+    .apresentacao__pessoal__informativo {
+        width: 524px;
+        font-size: 16px;
+    }
+
+    .conteiner__apresentacao__sobre__mim {
+        width: 100%;
+        height: 286px;
+        padding: 0;
+        margin: 0;
+    }
+
+    .sobre__mim__titulo {
+        font-size: 22px;
+        padding-left: 32px;
+        
+    }
+
+    .sobre__mim__texto {
+        width: 704px;
+        font-size: 14px;
+        padding-left: 32px;
+    }
+
+    .titulo__skill__hobbies {
+        font-size: 22px;
+        font-weight: bold;
+        padding: 32px;
+    }
+
+    .conteiner__skills__hobbies {
+        display: flex;
+        width: 100%;
+        height: 780px;
+        align-items: center;
+        padding: 0px 0px 32px 0px;
+    }
+
+    .conteiner__skills {
+        flex-direction: row;
+        gap: 16px;
+        flex-wrap: wrap;
+    }
+
+    .conteiner__hobbies {
+        flex-direction: row;
+        gap: 16px;
+        flex-wrap: wrap;
+    }
+
+    .skills,
+    .hobbies {
+        width: 208px;
+        height: 118px;
+        padding: 16px;
+
+    }
+
+    .titulo__formacao {
+        padding-top: 32px;
+        padding-bottom: 32px;
+        font-size: 22px;
+    }
+
+    .titulo__secundario {
+        font-size: 16px;
+    }
+
+    .subtitulo__paragrafo {
+        font-size: 14px;
+    }
+
+    .informacoes__cursos {
+        display: flex;
+        width: 768px;
+        flex-direction: row;
+    }
+
+    .conteiner__formacao__academica {
+        display: flex;
+        width: 768px;
+        height: 291px;
+        align-items: center;
+        padding: 0px 0px 32px 0px;
+    }
+
+    .conteiner__formacao {
+        width: 704px;
+        height: 169px;
+        display: flex;
+        gap: 16px;
+    }
+
+    .imagem__formacao {
+        width: 190px;
+        height: 100px;
+        display: flex;
+        border-radius: 20px;
+    }
+
+    .cursos__feitos {
+        width: 224px;
+        height: 169px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .conteiner__experiencia__profissional {
+        display: flex;
+        width: 100%;
+        height: 2017;
+        padding: 0px 0px 32px 0px;
+    }
+
+    .projetos__concluidos__1,
+    .projetos__concluidos__3 {
+        display: flex;
+        width: 100%;
+        height: 427px;
+        padding-bottom: 64px;
+        flex-direction: column-reverse;
+    }
+
+    .projetos__concluidos__2,
+    .projetos__concluidos__4 {
+        display: flex;
+        width: 100%;
+        height: 427px;
+        padding-bottom: 64px;
+        flex-direction: column;
+    }
+
+    .projetinhos__imagem {
+        display: flex;
+        width: 100%;
+        height: 320px;
+    }
+
+    .conteiner__formulario {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 573px;
+    }
+
+    .conteiner__formulario__contato {
+        width: 100%;
+        height: 739px;
+        padding: 0px 0px 32px 0px;
+
+    }
+
+    .img__contato {
+        display: none;
+    }
+
+    .titulo__footer {
+        padding-top: 32px;
+    }
+
+    .conteiner__footer {
+        width: 100%;
+        height: 102px;
+        padding: 0px;
+       
+    }
+
+
+}
