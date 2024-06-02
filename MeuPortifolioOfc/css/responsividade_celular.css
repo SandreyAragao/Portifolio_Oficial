@@ -1,16 +1,16 @@
 @media screen and (max-width: 360px) {
 
     #conteiner {
-        width: 100%;
-        height: 100%;
+        width: 22.5rem;
+        height: 297rem;
     }
     .logo__top {
-        width: 134px;
+        width: 8.4rem;
         font-size: 17px;
     }
     .conteiner__top {
-        width: 356px;
-        height: 56px;
+        width: 22.25rem;
+        height: 3.5rem;
         padding: 0px;
         justify-content: center;
         gap: 15px;
@@ -36,34 +36,34 @@
     }
 
     .conteiner__apresentacao {
-        width: 328px;
-        height: 294px;
+        width: 20.5rem;
+        height: 18.4rem;
         align-items: center;
         padding: 0px 16px 0px 16px;
-        margin-top: 90px;
+        margin-top: 5.6rem;
         flex-direction: column-reverse;
     }
 
     .fotoPerfil {
-        width: 98px;
-        height: 98px;
+        width: 6.13rem;
+        height: 6.13rem;
 
     }
 
     .apresentacao__pessoal {
-        width: 328px;
+        width: 20.5rem;
         font-size: 22px;
         padding-bottom: 8px;
     }
 
     .apresentacao__pessoal__informativo {
-        width: 328px;
+        width: 20.5rem;
         font-size: 14px;
     }
 
     .conteiner__apresentacao__sobre__mim {
-        width: 100%;
-        height: 350px;
+        width: 22.5rem;
+        height: 21.9rem;
         padding: 0;
         margin: 0;
     }
@@ -75,7 +75,7 @@
     }
 
     .sobre__mim__texto {
-        width: 328px;
+        width: 20.5rem;
         font-size: 14px;
         padding-left: 16px;
     }
@@ -87,8 +87,8 @@
     }
 
     .conteiner__skills__hobbies {
-        width: 360px;
-        height: 1016px;
+        width: 22.5rem;
+        height: 63.5rem;
         align-items: center;
         padding: 0px 0px 16px 0px;
         margin-bottom: 0px;
@@ -99,7 +99,7 @@
         gap: 16px;
         padding-left: 16px;
     }
-/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
     .conteiner__hobbies {
         flex-grow: 1;
         gap: 16px;
@@ -108,16 +108,16 @@
 
     .skills,
     .hobbies {
-        width: 124px;
-        height: 86px;
+        width: 7.8rem;
+        height: 5.4rem;
         padding: 16px;
 
     }
 
 
     .conteiner__formacao__academica {
-        width: 360px;
-        height: 661px;
+        width: 22.5rem;
+        height: 41.3rem;
         align-items: center;
         padding: 0px 0px 0px 0px;
         margin: 0px;
@@ -128,25 +128,25 @@
         font-size: 22px;
     }
     .imagem__formacao {
-        width: 200px;
-        height: 118px;
+        width: 12.5rem;
+        height: 7.4rem;
     }
 
     .conteiner__formacao {
-        width: 296px;
-        height: 539px;
+        width: 18.5rem;
+        height: 33.7rem;
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
     }
     .informacoes__cursos {
         display: flex;
-        width: 296px;
+        width: 18.5rem;
         flex-direction: column;
     }
     .cursos__feitos {
-        width: 296px;
-        height: 130px;
+        width: 18.5rem;
+        height: 8.1rem;
         flex-direction: column;
         padding-top: 20px;
         padding-bottom: 20px;
@@ -159,24 +159,24 @@
     }
 
     .conteiner__experiencia__profissional {
-        width: 100%;
-        height: 2017;
+        width: 22.5rem;
+        height: 82.6rem;
         padding: 0px 0px 32px 0px;
     }
 
     .projetos__concluidos__1,
     .projetos__concluidos__3 {
-        width: 360px;
-        height: 251px;
-        padding-bottom: 64px;
+        width: 22.5rem;
+        height: 15.7rem;
+        padding-bottom: 4rem;
         flex-direction: column-reverse;
         align-items: center;
     }
 
     .projetos__concluidos__2,
     .projetos__concluidos__4 {
-        width: 360px;
-        height: 251px;
+        width: 22.5rem;
+        height: 15.7rem;
         padding-bottom: 64px;
         flex-direction: column;
         align-items: center;
@@ -184,13 +184,13 @@
     .descricao__projeto__link {
         display: flex;
         flex-direction: column;
-        width: 296px;
+        width: 18.5rem;
         align-items: center;
         justify-content: center;
     }
     .botao__projeto {
         display: flex;
-        width: 296px;
+        width: 18.5rem;
         flex-direction: row;
         justify-content: center;
         gap: 16px;
@@ -199,15 +199,15 @@
 
     .projetinhos__imagem {
         display: flex;
-        width: 296px;
-        height: 144px;
+        width: 18.5rem;
+        height: 9rem;
     }
 
     .conteiner__formulario {
         display: flex;
         flex-direction: column;
-        width: 360px;
-        height: 777px;
+        width: 22.5rem;
+        height: 48.5;
         padding-top: 32px;
     }
 
@@ -216,8 +216,8 @@
     }
 
     .conteiner__formulario__contato {
-        width:360px;
-        height: 739px;
+        width:22.5rem;
+        height: 46.2rem;
         padding: 0px 0px 32px 0px;
 
     }
@@ -227,8 +227,8 @@
         padding-left: 25px;
     }
     .formulario__input {
-        width: 296px;
-        height: 56px;
+        width: 18.5rem;
+        height: 3.5rem;
        
     }
     .descricao__form {
@@ -237,8 +237,8 @@
         padding-bottom: 22px;
     }
     .mensagem__texto {
-        width: 296px;
-        height: 133px;
+        width: 18.5rem;
+        height: 8.3rem;
     }
 
     .img__contato {
@@ -252,8 +252,8 @@
     }
 
     .conteiner__footer {
-        width: 296px;
-        height: 84px;
+        width: 18.5rem;
+        height: 5.2rem;
         padding: 0px;
        
     }
