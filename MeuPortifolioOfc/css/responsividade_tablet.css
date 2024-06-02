@@ -1,13 +1,13 @@
 @media screen and (max-width: 768px) {
 
     #conteiner {
-        width: 100%;
-        height: 100%;
+        width: 48rem;
+        height: 298rem;
     }
 
     .conteiner__top {
-        width: 100%;
-        height: 52px;
+        width: 48rem;
+        height: 3.3rem;
         padding: 0px;
         justify-content: center;
         gap: 150px;
@@ -33,33 +33,33 @@
 
     /*atençao essa parte*/
     .conteiner__apresentacao {
-        width: 704px;
-        height: 210px;
+        width: 44rem;
+        height: 13.1rem;
         align-items: center;
         padding: 0px 32px 0px 32px;
         margin-top: 50px;
     }
 
     .fotoPerfil {
-        width: 146px;
-        height: 146px;
+        width: 9.1rem;
+        height: 9.1rem;
 
     }
 
     .apresentacao__pessoal {
-        width: 524px;
+        width: 32.7rem;
         font-size: 22px;
         padding-bottom: 8px;
     }
 
     .apresentacao__pessoal__informativo {
-        width: 524px;
+        width: 32.7rem;
         font-size: 16px;
     }
 
     .conteiner__apresentacao__sobre__mim {
-        width: 100%;
-        height: 286px;
+        width: 48rem;
+        height: 17.9rem;
         padding: 0;
         margin: 0;
     }
@@ -71,7 +71,7 @@
     }
 
     .sobre__mim__texto {
-        width: 704px;
+        width: 44rem;
         font-size: 14px;
         padding-left: 32px;
     }
@@ -83,9 +83,8 @@
     }
 
     .conteiner__skills__hobbies {
-        display: flex;
-        width: 100%;
-        height: 780px;
+        width: 48rem;
+        height: 48.8rem;
         align-items: center;
         padding: 0px 0px 32px 0px;
     }
@@ -104,8 +103,8 @@
 
     .skills,
     .hobbies {
-        width: 208px;
-        height: 118px;
+        width: 13rem;
+        height: 7.4rem;
         padding: 16px;
 
     }
@@ -125,52 +124,50 @@
     }
 
     .informacoes__cursos {
-        display: flex;
-        width: 768px;
+        width: 48rem;
         flex-direction: row;
     }
 
     .conteiner__formacao__academica {
-        display: flex;
-        width: 768px;
-        height: 291px;
+        width: 48rem;
+        height: 18.2rem;
         align-items: center;
         padding: 0px 0px 32px 0px;
     }
 
     .conteiner__formacao {
-        width: 704px;
-        height: 169px;
+        width: 44rem;
+        height: 10.6rem;
         display: flex;
         gap: 16px;
     }
 
     .imagem__formacao {
-        width: 190px;
-        height: 100px;
+        width: 11.9rem;
+        height: 6.3rem;
         display: flex;
         border-radius: 20px;
     }
 
     .cursos__feitos {
-        width: 224px;
-        height: 169px;
+        width: 14rem;
+        height: 10.6rem;
         flex-direction: column;
         text-align: center;
     }
 
     .conteiner__experiencia__profissional {
         display: flex;
-        width: 100%;
-        height: 2017;
+        width: 48rem;
+        height: 126rem;
         padding: 0px 0px 32px 0px;
     }
 
     .projetos__concluidos__1,
     .projetos__concluidos__3 {
         display: flex;
-        width: 100%;
-        height: 427px;
+        width: 48rem;
+        height: 26.7rem;
         padding-bottom: 64px;
         flex-direction: column-reverse;
     }
@@ -178,28 +175,28 @@
     .projetos__concluidos__2,
     .projetos__concluidos__4 {
         display: flex;
-        width: 100%;
-        height: 427px;
+        width: 48rem;
+        height: 26.7rem;
         padding-bottom: 64px;
         flex-direction: column;
     }
 
     .projetinhos__imagem {
         display: flex;
-        width: 100%;
-        height: 320px;
+        width: 48rem;
+        height: 20rem;
     }
 
     .conteiner__formulario {
         display: flex;
         flex-direction: column;
-        width: 100%;
-        height: 573px;
+        width: 48rem;
+        height: 36rem;
     }
 
     .conteiner__formulario__contato {
-        width: 100%;
-        height: 739px;
+        width: 48rem;
+        height: 46.2rem;
         padding: 0px 0px 32px 0px;
 
     }
@@ -213,8 +210,8 @@
     }
 
     .conteiner__footer {
-        width: 100%;
-        height: 102px;
+        width: 48rem;
+        height: 6.4rem;
         padding: 0px;
        
     }
